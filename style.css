@@ -1,0 +1,14 @@
+@media screen and (min-width:768px){
+    .news-style{
+        width: 50%;
+    }
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+accordian{
+    font-family: 'Noto Sans', sans-serif;;
+}
